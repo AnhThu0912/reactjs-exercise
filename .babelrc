@@ -1,0 +1,3 @@
+{
+  "plugin": ["babel-plugin-styled-components"]
+}

@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../my-reactjs -ex"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "liveServer.settings.multiRootWorkspaceName": "my-reactjs -ex"
+    }
+}
